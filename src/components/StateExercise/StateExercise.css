@@ -1,0 +1,14 @@
+.tricolor {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
+
+.image-container {
+  height: 200px;
+  width: 200px;
+}
+
+.image-vehicle {
+  max-width: 100%;
+}
